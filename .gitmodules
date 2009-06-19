@@ -1,0 +1,3 @@
+[submodule "webarchiver.git"]
+	path = webarchiver.git
+	url = git://github.com/paulwilliam/webarchiver.git
